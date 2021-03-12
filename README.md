@@ -1,3 +1,12 @@
+git clone --recursive https://github.com/wangyu-/tinyfecVPN
+
+apt-get install build-essential
+
+make
+
+
+
+
 # tinyfecVPN
 
 A Lightweight VPN with Build-in Forward Error Correction Support(or A Network Improving Tool which works at VPN mode). Improves your Network Quality on a High-latency Lossy Link. 
