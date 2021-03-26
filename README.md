@@ -1,4 +1,4 @@
-git clone --recursive https://github.com/wangyu-/tinyfecVPN
+git clone --recursive https://github.com/ymcoming/tinyfecVPN
 
 apt-get install build-essential
 
