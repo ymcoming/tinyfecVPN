@@ -6,7 +6,9 @@ cd tinyfecVPN
 
 make
 
+wget https://github.com/ymcoming/tinyfecVPN/releases/download/1.0/tinyvpn
 
+chmod +x ./tinyvpn
 
 
 # tinyfecVPN
